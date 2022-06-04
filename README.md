@@ -1,4 +1,4 @@
-<h1# align="center" Projeto-Telecom-GSM - (Global System for Mobile communication)</h1>
+<h1> align="center" Projeto-Telecom-GSM - (Global System for Mobile communication)</h1>
 Objetivo: limpeza, preparação e analises de data set telecom gsm
 Realizacao de limpeza e  preparacao dos campos: bateria, display, dimensao, memória, SO.
 Exibição de Graficos analiticos por marca, modelo. 
